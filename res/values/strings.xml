@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name" translatable="false">Xash3D</string>
-	<string name="launcher_name" translatable="false">Xash3D</string>
+	<string name="launcher_name" translatable="false">Xash3D Mod</string>
 	<string name="launcher_name_test" translatable="false">Xash3D Test</string>
 	<string name="version_string" translatable="false">v0.19.4</string>
 
